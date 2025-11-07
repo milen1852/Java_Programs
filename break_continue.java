@@ -23,4 +23,3 @@ public class break_continue {
         sc.close();
     }
 }
-//It is a program designed to work on break and continue in java.
