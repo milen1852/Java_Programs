@@ -12,3 +12,4 @@ public class While_loop {
         sc.close();
     }
 }
+// It is a program designed for while loop in java.
