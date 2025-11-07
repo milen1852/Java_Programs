@@ -24,3 +24,4 @@ public class switch_case {
         sc.close();
     }
 }
+//Program for Switch Case
